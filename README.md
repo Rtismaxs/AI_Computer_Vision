@@ -1,7 +1,7 @@
 # AI_Computer_Vision
-This repository is dedicated to AI implementation for Computer Vision using GPUs for training  
+This repository is dedicated to AI implementation for Computer Vision using GPUs for training
 
-############################## README FILE #############################
+# ReadMe
 TRAINED MODELS ARE STORED IN THE KAGGLE DATASET “Models Trained S383430 MATHIS CADIER”, BECAUSE THEY ARE TOO HEAVY TO BE STORED IN THE ZIP FILE
 
 MOREOVER ALL DATA USED THROUGH NOTEBOOKS (ZIP AND CSV FILES) ARE ALSO STORED IN THE KAGGLE DATASET “NOTEBOOK DATA S383430 MATHIS CADIER”
